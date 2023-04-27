@@ -1,0 +1,17 @@
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\DG645 Control App.exe
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\DG645 Control App.deps.json
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\DG645 Control App.runtimeconfig.json
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\DG645 Control App.dll
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\DG645 Control App.pdb
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645_Control_App.Form_MainScreen.resources
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.AssemblyInfo.cs
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.dll
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\refint\DG645 Control App.dll
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.pdb
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\DG645 Control App.genruntimeconfig.cache
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\obj\Release\net6.0-windows\ref\DG645 Control App.dll

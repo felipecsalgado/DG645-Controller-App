@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DG645 Control App/1.0.0": {
+        "runtime": {
+          "DG645 Control App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DG645 Control App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\publish\DG645 Control App.exe
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\publish\DG645 Control App.dll
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\publish\DG645 Control App.deps.json
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\publish\DG645 Control App.runtimeconfig.json
+C:\Users\felip\source\repos\DG645 Control App\DG645 Control App\bin\Release\net6.0-windows\publish\DG645 Control App.pdb
